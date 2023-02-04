@@ -8,7 +8,7 @@
    <hr>
    
  <h3> Responsividade </h3>
- <p> Pensando em uma melhor expêriencia do usuário, este sistema foi desenvolvido <br> para se comportar em vários tipo de Telas de tamanho diferentes! </p>
+ <p> Pensando em uma melhor experiência do usuário, este sistema foi desenvolvido <br> para se comportar em vários tipo de Telas de tamanho diferentes! </p>
  
  <h4> Desktop 💻 </h4>
  <img src="https://github.com/DaniMendess/ProjetoLocation-02/blob/main/img/desktop.png?raw=true"  width=600"/>
