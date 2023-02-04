@@ -1,6 +1,6 @@
 <h1>Projeto app de localização </h1>
 
-<p> sistema criado para acessar de maneira rápida e pratica sua localização de onde estiver! </p>
+<p> sistema criado para acessar de maneira rápida e prática sua localização de onde estiver! </p>
 
 <h3> Tecnologias utilizadas no desenvolvimento </h3>
    <p> <b>- HTML</b> </p>
